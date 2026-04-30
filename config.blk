@@ -1,0 +1,26 @@
+gameplay{
+  enableVR:b=no
+}
+
+debug{
+  testLocalization:b=yes
+}
+
+video{
+  resolution:t="1920 x 1080"
+  windowed:b=yes
+}
+
+graphics{
+  advancedShore:b=yes
+}
+
+sound{
+  speakerMode:t="stereo"
+  fmod_sound_enable:b=yes
+  enable_mod:b=yes
+}
+
+hangar{
+  hangar:t="custom_hangar.blk"
+}
